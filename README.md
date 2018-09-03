@@ -20,7 +20,7 @@ The full project is about 105mb, and includes all the different versions of the 
 
 The text-only releases do not require any special setup and can be run by simply unzipping them and opening the index.html file.
 
-The other releases will need to be unpacked onto a PHP server, and will need a flash enabled browser to run. They can still be run completely locally using EasyPHP. [See here for directions on how to set this up on a Windows computer using EasyPHP.]()
+The other releases will need to be unpacked onto a PHP server, and will need a flash enabled browser to run. They can still be run completely locally using EasyPHP. [See here for directions on how to set this up on a Windows computer using EasyPHP.](https://github.com/jkrowling-official-website/jkrowling-official-website/blob/master/EasyPHP.md)
 
 ## Usage
 
