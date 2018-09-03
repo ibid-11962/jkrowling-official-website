@@ -10,13 +10,13 @@ The full project is about 105mb, and includes all the different versions of the 
 
 **v1.0 — initial release**
 
-— [Full Site](https://github.com/jkrowling-official-website/jkrowling-official-website/archive/v1.0.zip) (The entire website)
+- [Full Site](https://github.com/jkrowling-official-website/jkrowling-official-website/archive/v1.0.zip) (The entire website)
 
-— [English flash site](https://github.com/jkrowling-official-website/jkrowling-official-website/archive/v1.0-en.zip)  
-— [French flash site](https://github.com/jkrowling-official-website/jkrowling-official-website/archive/v1.0-fr.zip)  
+- [English flash site](https://github.com/jkrowling-official-website/jkrowling-official-website/archive/v1.0-en.zip)  
+- [French flash site](https://github.com/jkrowling-official-website/jkrowling-official-website/archive/v1.0-fr.zip)  
 
-— [English text-only site](https://github.com/jkrowling-official-website/jkrowling-official-website/archive/v1.0-en-html.zip)    
-— [French text-only site](https://github.com/jkrowling-official-website/jkrowling-official-website/archive/v1.0-fr-html.zip)  
+- [English text-only site](https://github.com/jkrowling-official-website/jkrowling-official-website/archive/v1.0-en-html.zip)    
+- [French text-only site](https://github.com/jkrowling-official-website/jkrowling-official-website/archive/v1.0-fr-html.zip)  
 
 The text-only releases do not require any special setup and can be run by simply unzipping them and opening the index.html file.
 
