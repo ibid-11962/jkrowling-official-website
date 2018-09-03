@@ -1,1 +1,0 @@
-<x><rs n="advent" c="d,s"><r><c n="d"><![CDATA[1]]></c><c n="s"><![CDATA[openDoor.swf]]></c></r></rs></x>
