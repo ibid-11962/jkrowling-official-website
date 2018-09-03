@@ -1,0 +1,22 @@
+body,td
+{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:9px;
+}
+body
+{
+	color:#87957E;
+	cursor:default;
+}
+
+a
+{
+	color:#87957E;
+	text-decoration:none;
+}
+
+a:hover
+{
+	color:#5C6656;
+	text-decoration:none;
+}

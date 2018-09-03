@@ -1,0 +1,32 @@
+body
+{
+	background-color:#000000;
+	color:#FFFF00;
+}
+
+body,td,font,p
+{
+	font-family:verdana,arial;
+}
+
+li
+{
+	margin-bottom:10px;
+}
+a
+{
+	color:#00FFFF;
+	text-decoration:underline;
+}
+a:hover
+{
+	text-decoration:none;
+}
+a:visited
+{
+	color:#0099FF;
+}
+a:active
+{
+	color:#FFFF00;
+}
