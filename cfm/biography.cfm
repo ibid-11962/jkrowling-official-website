@@ -1,0 +1,1 @@
+<x><rs n="biography" c="title"><r><c n="title"><![CDATA[Biographie]]></c></r></rs></x>
