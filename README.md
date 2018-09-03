@@ -45,7 +45,7 @@ The Japanese version is more incomplete, with about 40,000 missing words. The Ja
 
 Theoretically it should be possible to translate the site into other languages as well. I'd estimate that would require around 50,000 – 60,000 words to be translated, not to mention other edits made to try adding a language option. I think the most straightforward way would be to duplicate everything and just replace an existing language.
 
-If you want to take a crack at the finishing the German and Italian text, you can find more directions over here. Contact me if you want to work on the Japanese stuff.
+[If you want to take a crack at the finishing the German and Italian text, you can find more directions over here.](https://github.com/jkrowling-official-website/jkrowling-official-website/blob/master/Contributing%20Translations/Contributing%20Translations.md) Contact me if you want to try working on the Japanese stuff.
 
 ## Credits
 
