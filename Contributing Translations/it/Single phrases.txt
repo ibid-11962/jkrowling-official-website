@@ -1,0 +1,32 @@
+-----------
+1. Context: A button to return to the previous screen.
+-----------
+"Back"
+
+-----------
+2. Context: After the WOMBAT test finishes, ones grade is written on the outside as "Classification: Troll" (or whatever the grade was.
+-----------
+"Classification"
+
+-----------
+3. Context: The following four phrases are markings that appear on envelopes. Try following the line breaks here.
+-----------
+"MS J.K. ROWLING"
+
+"SPECIAL
+DELIVERY"
+
+"EXTRA FAST SERVICE"
+
+"2nd
+CLASS"
+
+-----------
+4. Context: A button that will open up the "About Me" category of the FAQ. This phrase was translated elsewhere as "Informazioni su di me", but here needs to be much shorter. Consider just doing the equivelent of "Me".
+-----------
+"About Me"
+
+-----------
+5. Context: A button that will open up the "About the Books" category of the FAQ. This phrase was translated elsewhere as "Informazioni sui libri", but here needs to be much shorter. Consider just doing the equivelent of "the Books".
+-----------
+"About the Books"
