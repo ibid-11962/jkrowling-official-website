@@ -10,16 +10,17 @@ The full project is about 105mb, and includes all the different versions of the 
 
 **v1.0 — initial release**
 
-— [Full Site — The entire website](https://github.com/jkrowling-official-website/jkrowling-official-website/releases/download/v1.0/jkrowlingcom_fullsite_v1.0.zip)
+— [Full Site](https://github.com/jkrowling-official-website/jkrowling-official-website/archive/v1.0.zip) (The entire website)
 
-— [English flash site](https://github.com/jkrowling-official-website/jkrowling-official-website/releases/download/v1.0-en/jkrowlingcom_en_v1.0.zip)
-— [French flash site](https://github.com/jkrowling-official-website/jkrowling-official-website/releases/download/v1.0-fr/jkrowlingcom_fr_v1.0.zip)
-— [English text-only site](https://github.com/jkrowling-official-website/jkrowling-official-website/releases/download/v1.0-en-html/jkrowlingcom_en_textonly_v1.0.zip)
-— [French text-only site](https://github.com/jkrowling-official-website/jkrowling-official-website/releases/download/v1.0-fr-html/jkrowlingcom_fr_textonly_v1.0.zip)
+— [English flash site](https://github.com/jkrowling-official-website/jkrowling-official-website/archive/v1.0-en.zip)  
+— [French flash site](https://github.com/jkrowling-official-website/jkrowling-official-website/archive/v1.0-fr.zip)  
 
-The Text-only releases to not require any special setup and can be run by simply unzipping them and opening the index.html file.
+— [English text-only site](https://github.com/jkrowling-official-website/jkrowling-official-website/archive/v1.0-en-html.zip)    
+— [French text-only site](https://github.com/jkrowling-official-website/jkrowling-official-website/archive/v1.0-fr-html.zip)  
 
-The other releases will need to be unpacked onto a PHP server, and will need a flash enabled browser to run. They can still be run completely locally using EasyPHP. [See here for directions on how to set this up on a Windows computer using EasyPHP.]()
+The text-only releases do not require any special setup and can be run by simply unzipping them and opening the index.html file.
+
+The other releases will need to be unpacked onto a PHP server, and will need a flash enabled browser to run. They can still be run completely locally using EasyPHP. [See here for directions on how to set this up on a Windows computer using EasyPHP.](https://github.com/jkrowling-official-website/jkrowling-official-website/blob/master/EasyPHP.md)
 
 ## Usage
 
@@ -30,7 +31,7 @@ Most of the site is pretty self-explanatory, but two points bear mentioning.
 1. The Scrapbook stores the scans of JK Rowling's notes that you've unlocked throughout the website. Most of puzzles all have clues, and you explore hard enough you should find most of them. 
 2. The pink eraser takes you the secret door. It's open now showing the next generation family tree, but it used to always be locked with a "Do Not Disturb" sign. Every so often the sign would come off for a few days and with some difficult puzzle solving the door could be opened to show something like the title of the next Harry Potter book, or a difficult WOMBAT exam. The last two openings didn't have puzzles. To see any of the previous openings you have to adjust the date on the time turner in the lower right corner.
 
-[A more in depth guide, including detailed solutions to all Scrapbook content and door openings can be found here.]()
+[A more in depth guide, including detailed solutions to all Scrapbook content and door openings can be found here.](https://www.therowlinglibrary.com/j-k-rowling/official-website/guide/)
 
 You can change some settings by opening up config.ini in a text editor. These setting will let you do things like see how the site looked on a different date (it changed a lot over time) or see the birthday message when it isn't a character's birthday.
 
