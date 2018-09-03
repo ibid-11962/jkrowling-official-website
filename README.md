@@ -6,7 +6,7 @@ This project is a non-profit preservation of that original website. Everything i
 
 ## Installation
 
-The full project is about 105mb, and includes all the different versions of the site as was originally available (multilingual, flash, text-only, accessibility). Smaller individual releases are provided for the flash and text-only versions of all the languages that are completely translated. [A live version is also available.](https://www.therowlinglibrary.com/j-k-rowling/official-website/)
+The full project is about 100mb, and includes all the different versions of the site as was originally available (multilingual, flash, text-only, accessibility). Smaller individual releases are provided for the flash and text-only versions of all the languages that are completely translated. [A live version is also available.](https://www.therowlinglibrary.com/j-k-rowling/official-website/)
 
 **v1.0 — initial release**
 
