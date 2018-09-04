@@ -59,6 +59,6 @@ The Spanish translation was finished by [HarryLatino]().
 
 ## License
 
-The original website was made by Lightmaker and Copyrighted to JK Rowling.
+The original website was made by Lightmaker and copyrighted to JK Rowling.
 
-The changes that needed to made to get this running and the new code that had to be written can be used as you'd see fit.
+The changes that needed to be made to get this running and the new code that had to be written can be used as you see fit.
