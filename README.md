@@ -53,9 +53,11 @@ The flash files were all preserved by Roonwit. Much editing and tinkering was do
 
 Most of the non-English text comes from the Wayback Machine. Although they don't do a great job at preserving flash sites, they did preserve the text-only sites, which is where nearly all the French, Spanish, German, and Italian text was here taken from.
 
-The French translation was finished by [Gazette du Sorcier] and [Univers Harry Potter]().
+The French translation was finished by [Gazette du Sorcier](http://www.gazette-du-sorcier.com/) and [Univers Harry Potter](https://universharrypotter.com/).
 
-The Spanish translation was finished by [HarryLatino]().
+The Spanish translation was finished by [HarryLatino](https://www.harrylatino.com/).
+
+[More inforamtion can be found here.](https://github.com/jkrowling-official-website/jkrowling-official-website/blob/master/documentation.md)
 
 ## License
 
