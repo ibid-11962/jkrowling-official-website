@@ -1,2 +1,9 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+#ignores
+.gitattributes export-ignore
+*README.md export-ignore
+*documentation.md export-ignore
+*EasyPHP.md export-ignore
+Contributing Translations export-ignore
