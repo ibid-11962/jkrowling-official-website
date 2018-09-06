@@ -6,7 +6,7 @@ To contribute you have two options:
 
 1. Just translate and let someone else input the text back into the proper places.
 
-   Check out the files in [these folders](https://github.com/jkrowling-official-website/jkrowling-official-website/tree/master/Contributing%20Translations). They contain all the currently untranslated text for each language.
+   Check out the files in [these folders](https://github.com/jkrowling-official-website/jkrowling-official-website/tree/master/Contributing_Translations). They contain all the currently untranslated text for each language.
  
    Follow the notes in the files and translate them.
 
