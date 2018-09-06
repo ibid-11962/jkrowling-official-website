@@ -20,10 +20,6 @@ function writeswf(flashmovie,width,height,flashvars,transparent)
 	{
 		flashvars="jsenabled=yes";
 	}
-	if (navigator.userAgent.toLowerCase().indexOf("windows nt 6.0")!=-1)
-	{
-		flashvars+="&vista=yes";
-	}
 	document.write('<param name="flashvars" value="'+flashvars+'">');
 	if (transparent==true)
 	{
